@@ -1,7 +1,7 @@
-SqliteLoadExtension
+SqliteExtension
 ===================
 
-Sqlite Load Extension
+Sqlite Extension
 
 Functions:
 
