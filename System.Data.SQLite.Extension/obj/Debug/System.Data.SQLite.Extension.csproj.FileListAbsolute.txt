@@ -1,0 +1,15 @@
+c:\users\elyor\documents\visual studio 2013\Projects\SqliteLoadExtension\System.Data.SQLite.Extension\bin\Debug\x64\SQLite.Interop.dll
+c:\users\elyor\documents\visual studio 2013\Projects\SqliteLoadExtension\System.Data.SQLite.Extension\bin\Debug\x86\SQLite.Interop.dll
+c:\users\elyor\documents\visual studio 2013\Projects\SqliteLoadExtension\System.Data.SQLite.Extension\bin\Debug\System.Data.SQLite.Extension.dll.config
+c:\users\elyor\documents\visual studio 2013\Projects\SqliteLoadExtension\System.Data.SQLite.Extension\bin\Debug\System.Data.SQLite.Extension.dll
+c:\users\elyor\documents\visual studio 2013\Projects\SqliteLoadExtension\System.Data.SQLite.Extension\bin\Debug\System.Data.SQLite.Extension.pdb
+c:\users\elyor\documents\visual studio 2013\Projects\SqliteLoadExtension\System.Data.SQLite.Extension\bin\Debug\EntityFramework.dll
+c:\users\elyor\documents\visual studio 2013\Projects\SqliteLoadExtension\System.Data.SQLite.Extension\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\elyor\documents\visual studio 2013\Projects\SqliteLoadExtension\System.Data.SQLite.Extension\bin\Debug\System.Data.SQLite.dll
+c:\users\elyor\documents\visual studio 2013\Projects\SqliteLoadExtension\System.Data.SQLite.Extension\bin\Debug\System.Data.SQLite.EF6.dll
+c:\users\elyor\documents\visual studio 2013\Projects\SqliteLoadExtension\System.Data.SQLite.Extension\bin\Debug\System.Data.SQLite.Linq.dll
+c:\users\elyor\documents\visual studio 2013\Projects\SqliteLoadExtension\System.Data.SQLite.Extension\bin\Debug\EntityFramework.xml
+c:\users\elyor\documents\visual studio 2013\Projects\SqliteLoadExtension\System.Data.SQLite.Extension\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\elyor\documents\visual studio 2013\Projects\SqliteLoadExtension\System.Data.SQLite.Extension\bin\Debug\System.Data.SQLite.xml
+c:\users\elyor\documents\visual studio 2013\Projects\SqliteLoadExtension\System.Data.SQLite.Extension\obj\Debug\System.Data.SQLite.Extension.dll
+c:\users\elyor\documents\visual studio 2013\Projects\SqliteLoadExtension\System.Data.SQLite.Extension\obj\Debug\System.Data.SQLite.Extension.pdb
