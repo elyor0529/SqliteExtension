@@ -9,3 +9,14 @@ c:\users\elyor\documents\visual studio 2013\Projects\SqliteLoadExtension\SqliteL
 c:\users\elyor\documents\visual studio 2013\Projects\SqliteLoadExtension\SqliteLoadExtension\bin\Debug\System.Data.SQLite.Extension.dll
 c:\users\elyor\documents\visual studio 2013\Projects\SqliteLoadExtension\SqliteLoadExtension\bin\Debug\System.Data.SQLite.Extension.pdb
 c:\users\elyor\documents\visual studio 2013\Projects\SqliteLoadExtension\SqliteLoadExtension\obj\Debug\SqliteLoadExtension.csprojResolveAssemblyReference.cache
+D:\projects\Github\SqliteLoadExtension\SqliteLoadExtension\obj\Debug\SqliteLoadExtension.exe
+D:\projects\Github\SqliteLoadExtension\SqliteLoadExtension\obj\Debug\SqliteLoadExtension.pdb
+D:\projects\Github\SqliteLoadExtension\SqliteLoadExtension\bin\Debug\x64\SQLite.Interop.dll
+D:\projects\Github\SqliteLoadExtension\SqliteLoadExtension\bin\Debug\x86\SQLite.Interop.dll
+D:\projects\Github\SqliteLoadExtension\SqliteLoadExtension\bin\Debug\SqliteLoadExtension.exe
+D:\projects\Github\SqliteLoadExtension\SqliteLoadExtension\bin\Debug\SqliteLoadExtension.pdb
+D:\projects\Github\SqliteLoadExtension\SqliteLoadExtension\bin\Debug\System.Data.SQLite.dll
+D:\projects\Github\SqliteLoadExtension\SqliteLoadExtension\bin\Debug\System.Data.SQLite.Extension.dll
+D:\projects\Github\SqliteLoadExtension\SqliteLoadExtension\bin\Debug\System.Data.SQLite.Extension.pdb
+D:\projects\Github\SqliteLoadExtension\SqliteLoadExtension\bin\Debug\System.Data.SQLite.xml
+D:\projects\Github\SqliteLoadExtension\SqliteLoadExtension\obj\Debug\SqliteLoadExtension.csprojResolveAssemblyReference.cache

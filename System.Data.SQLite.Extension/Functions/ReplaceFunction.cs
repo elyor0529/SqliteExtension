@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace System.Data.SQLite.Extension.Functions
 {
-    [SQLiteFunction(Arguments = 1, FuncType = FunctionType.Scalar, Name = FunctionList.REPLACE)]
+    [SQLiteFunction(Arguments = 3, FuncType = FunctionType.Scalar, Name = FunctionList.REPLACE)]
     internal class ReplaceFunction : BaseSQLiteFunction
     {
         public override object Invoke(object[] args)

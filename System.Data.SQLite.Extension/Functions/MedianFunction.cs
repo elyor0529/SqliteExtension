@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace System.Data.SQLite.Extension.Functions
 {
 
-    [SQLiteFunction(Arguments = 1, FuncType = FunctionType.Aggregate, Name = FunctionList.MEDIAN)]
+    [SQLiteFunction(Arguments = -1, FuncType = FunctionType.Aggregate, Name = FunctionList.MEDIAN)]
     internal class MedianFunction : BaseSQLiteFunction
     {
         public override object Invoke(object[] args)

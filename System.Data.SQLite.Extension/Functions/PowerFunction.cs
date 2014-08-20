@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace System.Data.SQLite.Extension.Functions
 {
-    [SQLiteFunction(Arguments = 1, FuncType = FunctionType.Scalar, Name = FunctionList.POWER)]
+    [SQLiteFunction(Arguments = 2, FuncType = FunctionType.Scalar, Name = FunctionList.POWER)]
     internal class PowerFunction : BaseSQLiteFunction
     {
         public override object Invoke(object[] args)

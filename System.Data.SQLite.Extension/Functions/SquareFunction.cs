@@ -11,7 +11,7 @@ namespace System.Data.SQLite.Extension.Functions
     { 
         public override object Invoke(object[] args)
         {
-            var d = Convert.ToDouble(args[0]);
+            double d = Convert.ToDouble(args[0]);
 
             return Math.Pow(d, 2);
         }
